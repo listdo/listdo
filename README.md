@@ -2,9 +2,9 @@
 
 > My passion is to build teams that strive to create a better world and improve the quality of life for everyone.
 
-- 😄 Pronouns: he/him
 - 🔭 I’m currently working @[Research Group HIVE](https://hive.fh-hagenberg.at/)
 - 💬 Ask me about all the things I don't know.
+- 😄 Pronouns: he/him
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/listdo/listdo/output/github-snake-dark.svg">
