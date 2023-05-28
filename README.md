@@ -14,7 +14,7 @@
 
 📫 How to reach me: </br>
 - Email: *Coming soon!* </br>
-- Homepage: *Coming soon!* </br>
+- Homepage: https://dominik-list.at/ </br>
 - LinkedIn: https://www.linkedin.com/in/dominik-list-952966256/ </br>
 - Xing: *Coming soon!* </br>
 - Instagram: https://www.instagram.com/kaepten_harold_kidd/ </br>
