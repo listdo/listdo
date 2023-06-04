@@ -13,7 +13,7 @@
 </picture>
 
 📫 How to reach me: </br>
-- Email: *Coming soon!* </br>
+- Email: contact@dominik-list.at </br>
 - Homepage: https://dominik-list.at/ </br>
 - LinkedIn: https://www.linkedin.com/in/dominik-list-952966256/ </br>
 - Xing: *Coming soon!* </br>
