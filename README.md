@@ -17,6 +17,3 @@
 - Homepage: https://dominik-list.at/ </br>
 - LinkedIn: https://www.linkedin.com/in/dominik-list-952966256/ </br>
 - Xing: *Coming soon!* </br>
-- Instagram: https://www.instagram.com/kaepten_harold_kidd/ </br>
-- Facebook: [https://www.facebook.com/dominik.list](https://www.facebook.com/profile.php?id=100010056819562) </br>
-- Twitter: https://twitter.com/DerKaepten </br>
